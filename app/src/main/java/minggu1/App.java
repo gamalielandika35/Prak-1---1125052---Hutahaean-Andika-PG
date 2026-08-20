@@ -3,7 +3,7 @@ package minggu1;
 
 public class App {
     public String getGreeting() {
-        return "Hello World!";
+        return "Hello Nigger";
     }
 
     public static void main(String[] args) {
