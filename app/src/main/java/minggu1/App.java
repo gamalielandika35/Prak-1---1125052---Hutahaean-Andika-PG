@@ -168,7 +168,10 @@ package minggu1;
         System.out.println("Total Menu : " + Menu.totalMenu + "\n");
 
         Menu.Order order1 = menu1.new Order("001", "Key", menu1, 2);
+        Menu.Order order2 = menu1.new Order("002", "Key", menu2, 1);
         order1.showOrder();
+        System.out.println();
+        order2.showOrder();
 
     }
 }
