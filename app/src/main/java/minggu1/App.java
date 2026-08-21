@@ -76,7 +76,6 @@ package minggu1;
         order1.showOrder();
         System.out.println();
         order2.showOrder();
-
     }
 }
 
